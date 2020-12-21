@@ -15,6 +15,6 @@ Primary objective of 6.033:
 
 Course Structure
 - Lecutre: means what it means
-- Recitation: talk about a particular paper in systems. Get a better sense of how communication in the field is done.
+- [Recitation](./rec.md): talk about a particular paper in systems. Get a better sense of how communication in the field is done.
 - Writing, design projects
 
