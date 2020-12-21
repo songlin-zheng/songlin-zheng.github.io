@@ -2,7 +2,7 @@
 
 **This note is based on the [2017 version](http://web.mit.edu/6.033/2017/wwwdocs/index.shtml).**
 
-Notebook: **Principles of Computer System Design: An Introduction**
+Notebook: [**Principles of Computer System Design: An Introduction**](./textbook.md)
 
 Primary objective of 6.033:
 - Evaluate and critique existing systems.

@@ -1,6 +1,6 @@
 
 <h1>Contents</h1>
-<a href="#rec1_worse_is_better"></a>
+<a href="#rec1_worse_is_better">Worse is Better</a>
 
 <h2 id="rec1_worse_is_better">The Rise of Worse is Better</h2>
 MIT/Stanford style of design:
